@@ -1,0 +1,7 @@
+# Reading C:/Program Files/tcl/vsim/pref.tcl
+# error: Layout::Clairvoyance can't read "map()": no such element in array
+# can't read "map()": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile {D:/School work/108_2_D/HW & exercise/hw3_single_cycle_riscv_cpu/src/CPU.v}
+# could not find interpreter "ScintillaTk"
